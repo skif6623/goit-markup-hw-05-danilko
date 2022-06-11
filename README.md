@@ -1,1 +1,1 @@
-# skif6623-goit-markup-hw-05-danilko
+# goit-markup-hw-05-danilko
